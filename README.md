@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MasterReach1
+- 👀 I’m interested in cybersecurity and application development.
+- 🌱 I’m currently learning Python, Java, C#, and everything else I can get my hands on.
+- 💞️ I’m looking to collaborate on any open-source, security/privacy-based development projects.
+- 📫 I can be reached at mrxone2025@protonmail.com
