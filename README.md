@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Ethan Cox.
+👋 Hi, my name is Ethan Cox.
 - 👀 I’m interested in mobile app and web development as well as Application Security (AppSec)!
 - 🌱 I'm currently learning Git and Haskell; I never can truly stop learning my programming languages in this ever-growing age of information.
 - 💞️ I’m looking to collaborate on any mobile, open-source, or security/privacy-based development projects.
