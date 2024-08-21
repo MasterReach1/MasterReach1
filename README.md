@@ -1,6 +1,6 @@
 ![Cybersecurity Binary Code](https://media4.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47391cyh896ykfic1wd9alt1b50i058dk4qg38f7cu&rid=giphy.gif&ct=g)
 
-# Hi! My name is Ethan Cox. [Check out my website!](https://ethanr.dev)
+# Hi! My name is Ethan Cox.
 
 I am a **web developer** currently working in cybersecurity. For many years, I've been programming in **Python** and **Java**, but within the past year, I started to really focus on more web-based languages such as **HTML**, **CSS**, **JavaScript**, and **PHP**. Of course, I refuse to stop learning, so my interests are quite dynamic in the programming world; I am currently interested in learning how Python and databases can integrate with websites. I enjoy working on open-source projects because they have so much value! Not only are they good for a portfolio, but they provide priceless knowledge and real-world experience.
 
