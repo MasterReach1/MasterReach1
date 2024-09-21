@@ -1,9 +1,24 @@
-![Cybersecurity Binary Code](https://media4.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47391cyh896ykfic1wd9alt1b50i058dk4qg38f7cu&rid=giphy.gif&ct=g)
+# Hi! I'm Ethan Cox, a caffeinated developer.
 
-# Hi! My name is Ethan Cox.
+Let's get the credentials out of the way... I'm a *self-taught* developer that obtained an **AAS degree** in Computer Information Systems with a focus on Programming. Mouthful, I know.
 
-I am a **web developer** currently working in cybersecurity. For many years, I've been programming in **Python** and **Java**, but within the past year, I started to really focus on more web-based languages such as **HTML**, **CSS**, **JavaScript**, and **PHP**. Of course, I refuse to stop learning, so my interests are quite dynamic in the programming world; I am currently interested in learning how Python and databases can integrate with websites. I enjoy working on open-source projects because they have so much value! Not only are they good for a portfolio, but they provide priceless knowledge and real-world experience.
+I love my front-end projects because I have a knack for design and a genuine interest in making web applications with a smooth UI/UX. Despite loving front-end, I have back-end proficiencies as well... 
 
-| Part of these communities | Languages | Socials | Contact Me |
-| :---: | :---: | :---: | :---: |
-| [![Eddie Jaoude Community](https://avatars.githubusercontent.com/u/66388388?s=200&v=4)](https://github.com/EddieHubCommunity) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/findevxone)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethancox20/) | [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mrxone2025@protonmail.com)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethanrc2025@gmail.com) |
+I suppose that makes me full stack!
+
+In all aspects of life, I love coffee. It basically flows through my veins at this point.
+
+From what I hear, some form of caffeine is necessary if you're going to code... So here I am!
+
+When not chilling around the house or coding, I'll play disk golf, read, play guitar, joyride, take trips to the beach (yeah I'm close to the infamous Florida, home of the Florida man himself), and hang with friends and family.
+
+## What technologies can I work with?
+[![My Techs](https://skillicons.dev/icons?i=androidstudio,anaconda,aws,azure,bash,discord,bots,firebase,github,godot,nodejs,npm,postman,vscode,visualstudio)](https://skillicons.dev)
+
+## What programming languages / frameworks do I know?
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,flutter,cs,dotnet,git,gulp,jquery,md,py)](https://skillicons.dev)
+
+### Certifications
+- [AWS Solutions Architect - Associate](https://www.credly.com/badges/c9ddf23c-6995-480d-9c75-3a83f263dd64?source=linked_in_profile)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c0245a90-a8e2-4e30-89fc-e95e9757a7c3/linked_in_profile)
+- [Azure Fundamentals](https://learn.microsoft.com/en-us/users/ethancox-5164/credentials/d947b66c2430afad?ref=https%3A%2F%2Fwww.linkedin.com%2F)
